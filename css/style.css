@@ -86,7 +86,7 @@ body {
 
 @media only screen and (min-width: 1158px) {
   .container {
-    width: 1440px;
+    width: 1158px;
     padding: 0 15px;
   }
 }
@@ -303,8 +303,8 @@ address {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url("/images/people-office-optimized.jpg"),
-    url("/images/mobile/dark-bg@hero-bg1x.webp");
+    url("../images/people-office-optimized.jpg"),
+    url("../images/mobile/dark-bg@hero-bg1x.webp");
 
   @media (min-device-pixel-ratio: 2),
     (min-resolution: 192dpi),
